@@ -1,0 +1,6 @@
+{
+  "name": "ScholarAgent - CS Research Paper Parser & Architecture Engine",
+  "description": "Advanced Computer Science Research Agent specializing in parsing academic papers, extracting system architectures into Mermaid.js flowcharts, and identifying concrete student development opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
